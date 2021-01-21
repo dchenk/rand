@@ -7,6 +7,7 @@
 [![API](https://img.shields.io/badge/api-master-yellow.svg)](https://rust-random.github.io/rand)
 [![API](https://docs.rs/rand/badge.svg)](https://docs.rs/rand)
 [![Minimum rustc version](https://img.shields.io/badge/rustc-1.36+-lightgray.svg)](https://github.com/rust-random/rand#rust-version-requirements)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdchenk%2Frand.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdchenk%2Frand?ref=badge_shield)
 
 A Rust library for random number generation.
 
@@ -124,3 +125,6 @@ Apache License (Version 2.0).
 
 See [LICENSE-APACHE](LICENSE-APACHE) and [LICENSE-MIT](LICENSE-MIT), and
 [COPYRIGHT](COPYRIGHT) for details.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdchenk%2Frand.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdchenk%2Frand?ref=badge_large)
